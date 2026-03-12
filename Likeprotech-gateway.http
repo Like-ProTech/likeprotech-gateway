@@ -1,0 +1,6 @@
+@Likeprotech_gateway_HostAddress = http://localhost:5027
+
+GET {{Likeprotech_gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
